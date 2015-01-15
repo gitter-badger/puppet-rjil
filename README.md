@@ -3,6 +3,8 @@
 puppet-rjil
 ===========
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JioCloud/puppet-rjil?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Table of Contents
 
 1. [Overview - What is puppet-rjil module?](#overview)
